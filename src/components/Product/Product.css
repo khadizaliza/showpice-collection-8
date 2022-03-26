@@ -1,0 +1,21 @@
+
+.product img{
+    width: 200px;
+    height: 200px;
+}
+
+.product{
+    width: 210px;
+    height: 420px;
+    border: 2px solid purple;
+    border-radius: 20px;
+     position: relative; 
+   }
+   .product-name{
+       font-family: 'Loto';
+       font-size: 20px;
+       line-height: 20px;
+   }
+
+
+

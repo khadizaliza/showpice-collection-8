@@ -2,31 +2,56 @@
     {
       "_id": "623f058d7c36d40caebbae3d",
       "price": 266,
-      "name": "Mayer Boyle"
+      "name": "Mayer Boyle",
+      "image": "https://i.ibb.co/vkszMx1/img-1.jpg"
     },
     {
       "_id": "623f058ddde1176e803a710e",
       "price": 367,
-      "name": "Tammi Phelps"
+      "name": "Tammi Phelps",
+      "image": "https://i.ibb.co/n7w8kdN/img2.jpg"
     },
     {
       "_id": "623f058d92c22e597937991d",
       "price": 470,
-      "name": "Black Moss"
+      "name": "Black Moss",
+      "image": "https://i.ibb.co/tJ90V0f/img-3.jpg"
     },
     {
       "_id": "623f058d6a9719b95af54bb9",
       "price": 496,
-      "name": "Underwood Berg"
+      "name": "Underwood Berg",
+      "image": "https://i.ibb.co/qJFdtcp/img-9.jpg"
     },
     {
       "_id": "623f058ddbead24a0aa958b0",
       "price": 322,
-      "name": "Ila England"
+      "name": "Ila England",
+      "image": "https://i.ibb.co/NSF4Z90/img-4.jpg"
     },
     {
       "_id": "623f058d086439f0679cb117",
       "price": 446,
-      "name": "Betsy Cole"
+      "name": "Betsy Cole",
+      "image": "https://i.ibb.co/C0rN2zy/img-5.jpg"
+    },
+    {
+      "_id": "623f058d086439f0679cb117",
+      "price": 446,
+      "name": "Betsy Cole",
+      "image": "https://i.ibb.co/5YkJcnb/img-6.jpg"
+    },
+    {
+      "_id": "623f058d086439f0679cb117",
+      "price": 446,
+      "name": "Betsy Cole",
+      "image": "https://i.ibb.co/XL5TSTt/img-7.jpg"
+    },
+    {
+      "_id": "623f058d086439f0679cb117",
+      "price": 446,
+      "name": "Betsy Cole",
+      "image": "https://i.ibb.co/grXWLmr/img-8.jpg"
     }
+
   ]
