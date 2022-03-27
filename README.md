@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Best Showpiece Collection
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is shoping site. One can buy beautiful gift for her/his loving-parson.This is link['https://starlit-sopapillas-1fcc22.netlify.app/']
 
 ## Available Scripts
 
