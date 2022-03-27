@@ -24,10 +24,14 @@
        background: burlywood;
        border-radius: 0px 0px 8px 8px;
        border: none;
-       
+       display: flex;
+       align-items: center;
+       justify-content: center;
       
    }
-
+.btn-cart-text{
+    margin-right: 5px;
+}
 
 
 
