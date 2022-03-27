@@ -2,14 +2,23 @@
 .item-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    padding: 20px;
 }
 .product-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
-
-   
+.product-container-cart{
+    background: darksalmon;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.product-container-cart h1{
+    color: purple;
+}  
 
 
 
