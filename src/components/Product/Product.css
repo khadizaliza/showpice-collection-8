@@ -31,8 +31,11 @@
    }
 .btn-cart-text{
     margin-right: 5px;
+    color: purple;
 }
-
+.btn-icon{
+    color: purple;
+}
 
 
 
