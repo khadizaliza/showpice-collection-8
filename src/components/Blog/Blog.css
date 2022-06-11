@@ -1,14 +1,14 @@
 
 .blog-head{
-    color: purple;
+    color: rgb(154, 6, 154);
 }
 .blog-section{
-    background: khaki;
+    background: rgb(240, 234, 179);
     padding: 20px;
     margin: 20px;
 }
 .blog-section p{
-    color: indigo;
+    color: rgb(41, 1, 70);
 }
 
 
